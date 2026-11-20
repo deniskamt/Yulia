@@ -1,0 +1,13 @@
+{
+  "name": "nevyansk-sinyachikha",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сайт экскурсии «Демидовский Невьянск и деревянная Синячиха»",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
